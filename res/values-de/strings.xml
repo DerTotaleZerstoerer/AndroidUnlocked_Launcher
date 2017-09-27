@@ -19,12 +19,12 @@
 
 <resources xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="application_name" msgid="5181331383435256801">"Launcher3"</string>
+    <string name="application_name" msgid="5181331383435256801">"AndroidUnlocked-Launcher"</string>
     <string name="folder_name" msgid="7371454440695724752"></string>
     <string name="work_folder_name" msgid="3753320833950115786">"Arbeit"</string>
-    <string name="activity_not_found" msgid="8071924732094499514">"App ist nicht installiert."</string>
-    <string name="activity_not_available" msgid="7456344436509528827">"App nicht verfügbar"</string>
-    <string name="safemode_shortcut_error" msgid="9160126848219158407">"Heruntergeladene App im abgesicherten Modus deaktiviert"</string>
+    <string name="activity_not_found" msgid="8071924732094499514">"App ist nicht installiert"</string>
+    <string name="activity_not_available" msgid="7456344436509528827">"App ist nicht verfügbar"</string>
+    <string name="safemode_shortcut_error" msgid="9160126848219158407">"Heruntergeladene Apps sind im abgesicherten Modus deaktiviert"</string>
     <string name="safemode_widget_error" msgid="4863470563535682004">"Widgets im abgesicherten Modus deaktiviert"</string>
     <string name="toggle_weight_watcher" msgid="5645299835184636119">"Speicher anzeigen"</string>
     <string name="long_press_widget_to_add" msgid="7699152356777458215">"Zum Hinzufügen Widget berühren und halten"</string>
@@ -33,8 +33,8 @@
     <string name="all_apps_loading_message" msgid="7557140873644765180">"Apps werden geladen..."</string>
     <string name="all_apps_no_search_results" msgid="6332185285860416787">"Keine Apps für \"<xliff:g id="QUERY">%1$s</xliff:g>\" gefunden"</string>
     <string name="all_apps_search_market_message" msgid="5470761048755751471">"Gehe zu <xliff:g id="QUERY">%1$s</xliff:g>"</string>
-    <string name="out_of_space" msgid="4691004494942118364">"Auf diesem Startbildschirm ist kein Platz mehr vorhanden."</string>
-    <string name="hotseat_out_of_space" msgid="7448809638125333693">"Ablage \"Favoriten\" ist voll."</string>
+    <string name="out_of_space" msgid="4691004494942118364">"Auf diesem Startbildschirm ist kein Platz mehr vorhanden"</string>
+    <string name="hotseat_out_of_space" msgid="7448809638125333693">"Ablage \"Favoriten\" ist voll"</string>
     <string name="all_apps_button_label" msgid="9110807029020582876">"Apps"</string>
     <string name="all_apps_home_button_label" msgid="252062713717058851">"Startseite"</string>
     <string name="delete_target_label" msgid="1822697352535677073">"Entfernen"</string>
@@ -48,7 +48,7 @@
     <string name="permdesc_write_settings" msgid="5440712911516509985">"Ermöglicht der App, die Einstellungen und Verknüpfungen auf dem Startbildschirm zu ändern"</string>
     <string name="gadget_error_text" msgid="6081085226050792095">"Problem beim Laden des Widgets"</string>
     <string name="gadget_setup_text" msgid="8274003207686040488">"Einrichten"</string>
-    <string name="uninstall_system_app_text" msgid="4172046090762920660">"Dies ist eine Systemanwendung, die nicht deinstalliert werden kann."</string>
+    <string name="uninstall_system_app_text" msgid="4172046090762920660">"Diese System-App kann nicht deinstalliert werden"</string>
     <string name="folder_hint_text" msgid="6617836969016293992">"Unbenannter Ordner"</string>
     <string name="default_scroll_format" msgid="7475544710230993317">"Seite %1$d von %2$d"</string>
     <string name="workspace_scroll_format" msgid="8458889198184077399">"Startbildschirm %1$d von %2$d"</string>
@@ -58,7 +58,7 @@
     <string name="migration_cling_copy_apps" msgid="946331230090919440">"Symbole kopieren"</string>
     <string name="migration_cling_use_default" msgid="2626475813981258626">"Standardübersicht verwenden"</string>
     <string name="workspace_cling_longpress_title" msgid="9173998993909018310">"Hintergründe, Widgets &amp; Einstellungen"</string>
-    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">"Berühren und halten Sie den Hintergrund, um ihn anzupassen."</string>
+    <string name="workspace_cling_longpress_description" msgid="4119994475505235248">"Berühren und halten Sie den Hintergrund, um ihn anzupassen"</string>
     <string name="workspace_cling_longpress_dismiss" msgid="368660286867640874">"OK"</string>
     <string name="folder_opened" msgid="94695026776264709">"Ordner geöffnet, <xliff:g id="WIDTH">%1$d</xliff:g> x <xliff:g id="HEIGHT">%2$d</xliff:g>"</string>
     <string name="folder_tap_to_close" msgid="1884479294466410023">"Ordner durch Berühren schließen"</string>
@@ -74,7 +74,7 @@
     <string name="abandoned_clean_this" msgid="7610119707847920412">"Entfernen"</string>
     <string name="abandoned_search" msgid="891119232568284442">"Suchen"</string>
     <string name="abandoned_promises_title" msgid="7096178467971716750">"Diese App ist nicht installiert"</string>
-    <string name="abandoned_promise_explanation" msgid="3990027586878167529">"Die App für dieses Symbol ist nicht installiert. Sie können das Symbol entfernen oder nach der App suchen und sie manuell installieren."</string>
+    <string name="abandoned_promise_explanation" msgid="3990027586878167529">"Die App für dieses Symbol ist nicht installiert"</string>
     <string name="action_add_to_workspace" msgid="8902165848117513641">"Zum Startbildschirm hinzufügen"</string>
     <string name="action_move_here" msgid="2170188780612570250">"Element hierhin verschieben"</string>
     <string name="item_added_to_workspace" msgid="4211073925752213539">"Element zum Startbildschirm hinzugefügt"</string>
